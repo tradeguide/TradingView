@@ -1,5 +1,8 @@
 Pine script to detect bullish patterns
 ===
+
+Here's an example of Pine script code to detect the following bullish candlestick patterns: Hammer, Inverse Hammer, Bullish Engulfing, Piercing Line, Morning Star, Three White Soldiers, and Doji:
+
 ```pine
 study("Bullish Candlestick Patterns")
 
